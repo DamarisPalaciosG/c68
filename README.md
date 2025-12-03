@@ -1,2 +1,1 @@
-# Proyecto 7 - VEHICULOS
-c68- Sprint 7
+Aplicación web de análisis exploratorio que transforma datos complejos de vehículos en visualizaciones interactivas comprensibles para cualquier usuario. Mediante histogramas y gráficos de dispersión personalizables, permite identificar rápidamente patrones, tendencias y relaciones entre variables como precio, año y kilometraje. Su interfaz intuitiva con menús desplegables y casillas de verificación facilita la exploración dinámica del dataset, optimizando el proceso de toma de decisiones. En esencia, simplifica el análisis de datos al hacerlo accesible, rápido y visualmente atractivo para analistas, compradores y cualquier persona interesada en comprender el mercado de vehículos usados.
