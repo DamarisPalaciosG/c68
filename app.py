@@ -19,7 +19,7 @@ def load_data(path):
 
 
 # Define la ruta del archivo de datos
-DATA_PATH = r'C:\Users\damar.hybook-plus\proyecto 7 vehiculos\vehicles_us.csv'
+DATA_PATH = 'vehicles_us.csv'
 data = load_data(DATA_PATH)
 
 # Encabezado principal usando st.header()
@@ -138,3 +138,4 @@ if scatter_checkbox:
         )
 
     st.plotly_chart(fig_scatter, use_container_width=True)
+
